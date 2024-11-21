@@ -12,7 +12,7 @@ I'm currently learning python for data science<br>I've worked with C, JAVA, R<br
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ushiecodes&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ushiecodes&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
