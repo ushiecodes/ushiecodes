@@ -1,10 +1,7 @@
 <h1 align="center">Greetings, I'm Utkarsh...</h1>
 <h3 align="center">Your friendly neighborhood performative comp. sci. student!</h3>
 
-- 🔭 I’m currently learning to build real world solutions ['टोकन'](https://github.com/ushiecodes/gmc-token-system.git)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ushiecodes/](https://github.com/ushiecodes/)
-
+- 🔭 I’m currently learning to build real world solutions
 - 📫 How to reach me **work.utkarshkamat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
